@@ -1,0 +1,4 @@
+"scripts": {
+    "tictactoe": "node tictactoe.js"
+  }
+  
